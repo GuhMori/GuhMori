@@ -3,11 +3,13 @@
 **`Estudante de Ciência de Dados`**
 
 Me chamo Gustavo Mori, tenho 29 anos e sou natural de São Paulo. Concluí a faculdade de engenharia civil pela Universidade Paulista (UNIP). Atualmente, estou cursando Ciência de Dados na EBACK. Meu LinkedIn "[Gustavo Mori](https://www.linkedin.com/in/gustavo-mori-79a878125/)".
-
+---
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=GuhMori&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
+
+### 🤖 Main skills:
 
 ###
 <img 
@@ -23,6 +25,8 @@ Me chamo Gustavo Mori, tenho 29 anos e sou natural de São Paulo. Concluí a fac
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 </div>
 
+### 🙌 Redes sociais:
+
 ###
 
 <div align="left">
@@ -33,9 +37,6 @@ Me chamo Gustavo Mori, tenho 29 anos e sou natural de São Paulo. Concluí a fac
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/GuhMori/GuhMori/output/snake.svg" alt="Snake animation" />
@@ -47,3 +48,5 @@ Me chamo Gustavo Mori, tenho 29 anos e sou natural de São Paulo. Concluí a fac
 </div>
 
 ###
+
+
