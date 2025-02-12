@@ -1,4 +1,4 @@
-# ⚜️ Gustavo Kenji de Carvalho Mori
+# Gustavo Kenji de Carvalho Mori
 
 **`Estudante de Ciência de Dados`**
 
